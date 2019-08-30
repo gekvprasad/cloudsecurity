@@ -1,0 +1,15 @@
+Process questions:
+1.	How is cloud governance managed within the organisation? Do you have a clear cloud governance framework and cloud adoption roadmap as part of cloud strategy?
+2.	What cloud services do your organisation use across SAAS, IAAS, PAAS models and use and how risky are they?
+3.	What sensitive data or regulated data is in the cloud, and How data is secured?
+4.	What are your legal or regulatory compliance requirements on the cloud? Audit and Compliance risks – including issues around data jurisdiction, data access control, and maintaining an audit trail.
+5.	Do you know how many cloud apps, sanctioned or otherwise, are being used across your company, and how you monitor and control the use of unsanctioned cloud apps and accounts? (This is question focuses on CASB)
+6.	Are you using enterprise standard DLP, cloud threat intelligence, assessment tools to Protect SaaS, PaaS, and IaaS cloud accounts from Misuse, Threats, and Data Loss?(This is question focuses on Symantec Cloud workload protection and DLP)
+7.	In the event of a data breach on the cloud, what is our incident response process?
+8.	Do you conduct regular security assessments of these cloud services based on their risk classification?
+
+Technical Questions:
+9.	How do you secure web applications deployed on the cloud and are not vectors for attacks?
+10.	How do you manage patch requirements for the number of virtualized systems on the cloud?( This is question focuses on system security)
+11.	How do you provide protection against network threats and vulnerabilities in the Cloud? (This is question focuses on secure network architecture and network firewalls)?
+12.	Do you documented security guardrails for all cloud configurations and cloud-based Systems? How are monitoring guardrails to identify anomalies?
